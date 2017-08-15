@@ -17,6 +17,7 @@ namespace HelloWorld
         {
             string strTest = "this is not doing anything really ";
             Console.WriteLine(strTest);
+            Console.WriteLine("some more stuff");
         }
     }
 }
